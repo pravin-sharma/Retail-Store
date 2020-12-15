@@ -1,2 +1,2 @@
-# Retail-Store
-#Using ejs, MongoDB, Express and Nodejs
+# Retail-Store (Frontend & Backend)
+Using ejs(Templating Engine), MongoDB, Express and Nodejs
