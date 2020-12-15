@@ -1,2 +1,2 @@
 # Retail-Store (Frontend & Backend)
-Using ejs(Templating Engine), MongoDB, Express and Nodejs
+Using ejs(Templating Engine), mysql, Express and Nodejs
